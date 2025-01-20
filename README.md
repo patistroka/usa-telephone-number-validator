@@ -1,4 +1,6 @@
-# usa-telephone-number-validator# US Telephone Number Validator
+# usa-telephone-number-validator#
+
+US Telephone Number Validator
 
 This app validates US phone numbers in various formats using a regular expression. It checks if the phone number follows valid formats and outputs whether the number is valid or invalid.
 
