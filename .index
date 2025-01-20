@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <script src="https://kit.fontawesome.com/8d61045429.js"></script>
+   <link rel="stylesheet" href="styles.css">
+   <title>US Telephone Number Validator</title>
+  </head>
+  <body>
+    <h1>Telephone Number Validator</h1>
+
+     <i class="fa-solid fa-phone-volume fa-2x"></i> 
+    
+      <p>Enter a Phone Number:</p>
+      <input id="user-input"></input>
+  <div class="button-container">
+    <button id="check-btn">Check</button>
+    <button id="clear-btn">Clear</button>
+    </div>
+
+    <div id="results-div"></div>
+   
+ <script src="script.js"></script>
+</body>
